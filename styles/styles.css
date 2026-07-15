@@ -3,6 +3,7 @@ nav {
     padding: 10px;
 }
 
+/* Styles navigation links to display as white block elements with spacing */
 nav a {
     color: white;
     display: block;
@@ -13,6 +14,7 @@ h1 {
     color: darkblue;
 }
 
+/* Styles main images with fixed width, border, and shadow effect */
 main img {
     width: 150px;
     height: auto;
@@ -21,6 +23,7 @@ main img {
     box-shadow: 0 0 30px gray;
 }
 
+/* Limits the main content width to 840px for better readability */
 main {
     max-width: 840px;
 }
