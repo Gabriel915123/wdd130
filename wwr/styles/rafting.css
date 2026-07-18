@@ -86,3 +86,17 @@ h2 {
     border: 2px solid var(--accent2-color);
     border-radius: 6px;
 }
+
+.hero img {
+    width: 100%;
+}
+
+.hero article {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 12px 16px;
+    /* width: 100%; */
+}
