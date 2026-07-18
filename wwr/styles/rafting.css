@@ -5,7 +5,7 @@
 }
 
 :root {
-    --primary-color: #dfbbee;
+    --primary-color: #380469;
     --secondary-color: #f4a261;
     --accent1-color: #264653;
     --accent2-color: #e9c46a;
@@ -26,6 +26,18 @@
     opacity: 0.7;
     background-color: var(--accent1-color);
     color: #fff;
+}
+
+h1,
+h2 {
+    font-family: var(--heading-font);
+    color: var(--primary-color);
+}
+
+p,
+section {
+    margin: 16px;
+    padding: 8px;
 }
 
 .hero article {
