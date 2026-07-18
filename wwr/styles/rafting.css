@@ -64,9 +64,10 @@ h2 {
 .hero article {
     position: absolute;
     bottom: 0;
+    left: 0;
     background-color: rgba(0, 0, 0, 0.6);
     color: #fff;
-    padding: 12px;
+    padding: 12px 16px;
     width: 100%;
 }
 
